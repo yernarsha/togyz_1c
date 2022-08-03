@@ -1,4 +1,4 @@
-An application "Togyz Kumalak" written in 1C Enterprise by Yernar Shambayev.
+A console application "Togyz Kumalak" written in 1C Enterprise by Yernar Shambayev.
 
 Togyz Kumalak (or Toguz Kumalak or Toguz Korgool) is a very interesting Kazakh-Kyrgyz board game. Rules can be found here: https://mancala.fandom.com/wiki/Toguz_Kumalak
 
